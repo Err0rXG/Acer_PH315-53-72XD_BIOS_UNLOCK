@@ -22,7 +22,7 @@ Inside the `patches` folder, you will find three distinct patch files. Depending
   * This is an expanded patch list. It contains everything from the `.OG` file, plus **numerous additional patch patterns** and low-level hex modifications discovered and added specifically for this repository to unhide further suppressed menus.
 
 * `patches.txt.LEGACY`
-  * This file contains the standard patches alongside highly specific dual-lock patches designed to **unlock the Setup Mode option and enable the Legacy ROM (CSM) boot option** on this hardware. *(Note: Proceed with extreme caution when modifying Boot Modes on 10th-Gen Intel Class 3 UEFI systems).*
+  * This file only contains highly specific dual-lock patches designed to **unlock the Setup Mode option and enable the Legacy ROM (CSM) boot option** on this hardware. *(Note: Proceed with extreme caution when modifying Boot Modes on 10th-Gen Intel Class 3 UEFI systems).*
 
 ## 🚀 How to Use (Flashing Procedure)
 
